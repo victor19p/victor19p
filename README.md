@@ -43,17 +43,8 @@ Ingeniero en Sistemas con especialización en plataformas CRM y desarrollo de so
 
 ---
 
-## 🌍 Idiomas  
-- 🇪🇸 **Español (Nativo)**  
-- 🇬🇧 **Inglés (Avanzado)**  
-- 🇮🇹 **Italiano (Intermedio)**  
-
----
-
 ## 🎓 Educación  
 🎓 **Universidad Nacional Autónoma de Honduras** – Ingeniería en Sistemas  
-📜 **Centro de Formación Profesional San Juan Bosco** – Soporte de Sistemas Informáticos  
-
 ---
 
 ## 📞 Contacto  
