@@ -28,6 +28,7 @@ Ingeniero en Sistemas con especialización en plataformas CRM y desarrollo de so
 ✔️ Salesforce Administrator  
 ✔️ Salesforce App Builder  
 ✔️ Salesforce Platform Developer I  
+✔️ Salesforce Agentforce Specialist
 
 ---
 
