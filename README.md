@@ -1,30 +1,33 @@
 # 💻 Victor Miguel Pineda  
-### 🚀 Salesforce Developer | Ingeniero en Sistemas  
+### 🚀  Salesforce Developer | Systems Engineer
 
-📍 **Ubicación:** Tegucigalpa, Honduras  
-📧 **Correo:** [victor19cod@gmail.com](mailto:victor19cod@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/vi-pineda](https://www.linkedin.com/in/vi-pineda/)  
-
----
-
-## 🧑‍💻 Sobre mí  
-Ingeniero en Sistemas con especialización en plataformas CRM y desarrollo de software, incluyendo soluciones móviles, con un sólido enfoque en Salesforce. Con 3 años de trayectoria profesional, he liderado el diseño, implementación y optimización de soluciones que impulsan la eficiencia operativa y mejoran la experiencia del usuario.  
-
-✨ Apasionado por la innovación tecnológica y el crecimiento continuo.  
+📍 **Location:** Tegucigalpa, Honduras  
+📧 **Email:** [victor19cod@gmail.com](mailto:victor19cod@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/vi-pineda](https://www.linkedin.com/in/vi-pineda/?locale=en_US)  
+🌐 Portfolio: [victorpinedaportafolio2025-taupe.vercel.app](https://www.victorpinedaportafolio2025-taupe.vercel.app)  
 
 ---
 
-## 🔧 Habilidades Técnicas  
-- 💻 **Salesforce Apex, Lightning Web Components**  
-- 🗄️ **SQL, SOQL, SOSL**  
-- ⚛️ **React JS & React Native**  
-- 📱 **Flutter & C#**  
+## 🧑‍💻 About me
+A Systems Engineer with 3 years of professional experience specializing in CRM platforms, particularly Salesforce. I excel in designing, implementing, and optimizing solutions that enhance operational efficiency and user experience. My expertise extends to mobile solutions development
+
+✨  Passionate about technological innovation and continuous improvement.  
+
+---
+
+## 🔧 Technical Skills 
+- 💻 **Salesforce: **  Apex, Lightning Web Components (LWC), Visualforce, Sales Cloud, Service Cloud, Digital Engagement, Agentforce, OOP, Lightning, UX/UI
+- 🌐 **Salesforce Automation: **  Flow Builder, Workflows
+- 💻 **Integrations: **  REST, SOAP, API, Custom API, Named Credentials
+- 💻 **Deployment: ** Copado, Change Sets
+- 🗄️ **Databases: **  SQL, SOQL, SOSL
+- ⚛️ **Development: **  JavaScript, HTML, CSS, JSON, XML, Visual Studio Code
+- 📱 **Mobile Development: **  Flutter, C# (MAUI)
 - 🔁 **Salesforce Workflows y Flows**  
-- 🌐 **Node.js**  
 
 ---
 
-## 🎖️ Certificaciones  
+## 🎖️ Certifications  
 ✔️ Salesforce Administrator  
 ✔️ Salesforce App Builder  
 ✔️ Salesforce Platform Developer I  
@@ -32,27 +35,36 @@ Ingeniero en Sistemas con especialización en plataformas CRM y desarrollo de so
 
 ---
 
-## 💼 Experiencia Profesional  
-### 🏢 **Salesforce Developer – Experenta (2022 - Presente)**  
-- Desarrollo de lógica de negocio en Apex y automatización avanzada.  
-- Creación de interfaces personalizadas e integración con Acumatica y Centerpoint.  
-- Desarrollo y mantenimiento de aplicaciones móviles en Flutter y C#.  
-
+## 💼 Professional Experience  
 ### 🎯 **Freelancer Salesforce Developer (2024 - Presente)**  
-- Integración de CRM con ERP y migración de datos entre organizaciones.  
-- Mantenimiento y actualización de componentes LWC en Salesforce.  
+- Developed and configured Salesforce-based communication endpoints for integrating ERP systems (Acumatica, CenterPoint, Azure) with Salesforce Sales Cloud, enhancing updated data visibility.  
+- Successfully migrated core data (clients, opportunities, custom objects) from one Salesforce organization to another, ensuring total data integrity.
+- Designed and implemented dynamic REST API endpoints for Salesforce allowing metadata-driven field maintenance, eliminating codebase modifications.
+- Updated and designed a Salesforce Experience Cloud site, modernizing the frontend with LWC and improving customer experience.
+- Optimized Salesforce processes for a hotel reservation program, including points/certificate redemption and loyalty levels through metadata.
+- Implemented an integration between Salesforce and Azure DevOps to connect support cases in Service Cloud with Work Items in Azure for efficient development cycle management.
+
+  
+### 🏢 **Salesforce Solutions Developer – Experenta (July 2022 - August 2025)**  
+- Led the comprehensive migration and development of a pre-sale mobile application in Flutter, fully integrated with Salesforce Sales Cloud.
+- Identified and optimized key processes, configured new objects, fields, and permissions in Salesforce, ensuring full integration fidelity with business requirements.
+- Assumed control and facilitated the launch of a third-party developed delivery application (C# MAUI), establishing a stable and functional version for the delivery team.  
+- Optimized a customized Salesforce scheduling system based on region, module, day, and frequency, reducing execution times and respecting platform limits.
+- Adapted and enhanced an Opportunity quoting system to integrate Excel tables with products and prices from different suppliers, streamlining the quotation process.
+- Designed and customized dashboards, reports, and alerts in Salesforce Sales Cloud, providing precise visibility into performance metrics and goals.
+- Built and optimized Flows, layouts, and processes in Sales Cloud for an agricultural product distribution company, automating key tasks and improving operational efficiency.
 
 ---
 
-## 🎓 Educación  
-🎓 **Universidad Nacional Autónoma de Honduras** – Ingeniería en Sistemas  
+## 🎓 Education  
+🎓 **Bachelor's Degree in Systems Engineering** – UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS (July 2022)
 ---
 
-## 📞 Contacto  
+## 📞 Contact  
 📧 **Email:** [victor19cod@gmail.com](mailto:victor19cod@gmail.com)  
-📱 **Teléfono:** +504 3350-5652  
+📱 **Teléfono:** [+504 33505652](https://wa.me/50433505652)  
 
-💡 **¿Te gustaría colaborar?** ¡No dudes en escribirme!
+💡 ** Interested in collaborating? Feel free to reach out!
 
 ---
 
