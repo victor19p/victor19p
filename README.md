@@ -16,14 +16,14 @@ A Systems Engineer with 3 years of professional experience specializing in CRM p
 ---
 
 ## 🔧 Technical Skills 
-- 💻 **Salesforce: **  Apex, Lightning Web Components (LWC), Visualforce, Sales Cloud, Service Cloud, Digital Engagement, Agentforce, OOP, Lightning, UX/UI
-- 🌐 **Salesforce Automation: **  Flow Builder, Workflows
-- 💻 **Integrations: **  REST, SOAP, API, Custom API, Named Credentials
-- 💻 **Deployment: ** Copado, Change Sets
-- 🗄️ **Databases: **  SQL, SOQL, SOSL
-- ⚛️ **Development: **  JavaScript, HTML, CSS, JSON, XML, Visual Studio Code
-- 📱 **Mobile Development: **  Flutter, C# (MAUI)
-- 🔁 **Salesforce Workflows y Flows**  
+- 💻 **Salesforce:** Apex, Lightning Web Components (LWC), Visualforce, Sales Cloud, Service Cloud, Digital Engagement, Agentforce, OOP, Lightning, UX/UI
+- 🗄️ **Databases:** SQL, SOQL, SOSL
+- ⚛️ **Development:** JavaScript, HTML, CSS, JSON, XML, Visual Studio Code
+- 📱 **Mobile Development:** Flutter, C# (MAUI)
+- 🔁 **Salesforce Automation:** Flow Builder, Workflows
+- 🌐 **Integrations:** 🔗 REST, SOAP, API, Custom API, Named Credentials
+- 🚀 **Deployment:** Copado, Change Sets
+- ⚡ **Methodologies:** Agile, Scrum
 
 ---
 
