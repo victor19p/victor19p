@@ -4,7 +4,7 @@
 📍 **Location:** Tegucigalpa, Honduras  
 📧 **Email:** [victor19cod@gmail.com](mailto:victor19cod@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/vi-pineda](https://www.linkedin.com/in/vi-pineda/?locale=en_US)  
-🌐 Portfolio: [victorpinedaportafolio2025-taupe.vercel.app](https://www.victorpinedaportafolio2025-taupe.vercel.app)  
+🌐 Portfolio: https://victorpinedaportafolio2025-taupe.vercel.app/
 
 ---
 
